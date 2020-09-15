@@ -2,6 +2,7 @@ package com.company;
 
 public class Main {
 
+    private String y;
     public static void main(String[] args) {
 	// write your code here
 
@@ -9,5 +10,6 @@ public class Main {
         //xdxdxdxd
 
         // casa
+        //con hola
     }
 }
